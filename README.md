@@ -1,2 +1,2 @@
-# Mang-noron-va-hoc-sau-deeplearning
+# Mang-noron-va-hoc-sau
 Python
